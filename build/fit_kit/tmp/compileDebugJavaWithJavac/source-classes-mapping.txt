@@ -1,0 +1,2 @@
+com/example/fit_kit/BuildConfig.java
+ com.example.fit_kit.BuildConfig
